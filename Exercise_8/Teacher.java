@@ -1,3 +1,5 @@
+package Exercise_8;
+
 import java.util.Arrays;
 
 public class Teacher extends Person {

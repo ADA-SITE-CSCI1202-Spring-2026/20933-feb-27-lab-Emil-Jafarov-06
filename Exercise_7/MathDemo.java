@@ -1,3 +1,5 @@
+package Exercise_7;
+
 public class MathDemo {
 
     // If the methods were static, there would not be a need to create an instance to use the methods.
@@ -34,3 +36,4 @@ public class MathDemo {
     }
 
 }
+

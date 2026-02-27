@@ -1,4 +1,6 @@
-public class Inheritance_Checker_Exercise8 {
+package Exercise_8;
+
+public class Exercise_8_Main {
 
     public static void main(String[] args) {
         String[] teacherCourses = {"Data Structures", "Operating Systems", "Networking"};
@@ -22,3 +24,4 @@ public class Inheritance_Checker_Exercise8 {
     }
 
 }
+

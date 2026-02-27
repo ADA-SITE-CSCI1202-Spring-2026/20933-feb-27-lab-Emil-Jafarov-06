@@ -1,3 +1,5 @@
+package Exercise_7;
+
 public class MathDemo_Main {
 
     public static void main(String[] args) {
